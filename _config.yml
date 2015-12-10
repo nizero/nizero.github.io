@@ -1,0 +1,17 @@
+title: NiZero
+description: live, learn, share. hidup belajar berbagi
+url: 'https://nizero.github.io'
+
+lama_baca: true
+menit_kata : 200
+
+markdown: kramdown
+permalink: none
+paginate: 6
+timezone: '+0700'
+
+include: ['_pages']
+# pastikan pengaturan permalink pada front matter .md menggunakan garis miring. spt:
+# ---
+# permalink: /permalink/
+# ---
